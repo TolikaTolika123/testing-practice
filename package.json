@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "testing practice with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TolikaTolika123/testing-practice.git"
+  },
+  "author": "\"Anatoli Avetisovi\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TolikaTolika123/testing-practice/issues"
+  },
+  "homepage": "https://github.com/TolikaTolika123/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
+}
